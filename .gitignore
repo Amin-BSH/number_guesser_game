@@ -1,0 +1,4 @@
+.conda
+.idea
+.vscode
+.mypy_cache
